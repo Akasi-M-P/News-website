@@ -1,0 +1,126 @@
+.col1{
+    margin-top: 4rem;
+    
+}
+
+.col1 img{
+    cursor: pointer;
+}
+
+.top-story{
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.ofori-img{
+    height: 300px;
+    width: 600px;
+    object-fit: cover;
+}
+
+.top{
+    margin-top: 2rem;
+    margin-left: 15rem;
+    font-family: monospace;
+    background-color: red;
+    width: 300px;
+    color: white;
+    padding-left: 1rem;
+}
+
+body{
+    background-color: #00001a;
+}
+
+.news p{
+    color: white;
+    font-family: monospace;
+    padding-top: 1rem;
+
+}
+
+.news{
+    cursor: pointer;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+}
+
+.en-img img{
+    height: 170px;
+}
+
+.foot{
+    margin-top: 5rem;
+    margin-left: 15rem;
+    background-color: white;
+    width: 100%;
+}
+
+.foot p{
+    color: red;
+    cursor: pointer;
+    font-family: monospace;
+}
+
+.foot label{
+    font-family: monospace;
+    font-size: larger;
+}
+
+footer{
+    background-color: white;
+}
+
+
+th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: none;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: none; 
+}
+
+.table td, .table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: none;
+}
+
+.table {
+    width: 80%;
+    margin-bottom: 1rem;
+    
+}
+
+.copyright{
+    margin-left: 14rem;
+    font-family: monospace;
+}
+
+.store img{
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+
+.store label{
+    font-family: monospace;
+    cursor: pointer;
+    
+}
+
+.app-store{
+    cursor: pointer;
+}
